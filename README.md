@@ -1,4 +1,4 @@
-# Resume Bundle Splitter
+# PDF Bundle Splitter
 
 A Python tool that automatically splits multi-resume PDF bundles into individual resume files with cover letter removal.
 
